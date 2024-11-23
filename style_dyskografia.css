@@ -1,0 +1,33 @@
+body { 
+    background-color: #e1e0df;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 5cm;
+    margin-right: 5cm;
+    font-size: 110%;
+}
+
+h1 {
+    text-align-last: center;
+    margin-bottom: 2cm;
+}
+
+h2 {
+    text-align-last: center;
+}
+
+a {
+    text-decoration: none;
+    /* color: rgb(125, 171, 209); */
+ }
+
+a:hover {
+    text-decoration: underline;
+}
+
+.plyta1 {
+    
+    height: max-content;
+    float:left;
+    margin-bottom: 2cm;
+    text-align: left;
+} 
